@@ -26,7 +26,7 @@ $(document).ready(function(){
         
 		
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/sTAS.png" alt="STAS" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/3BESvEH.png" alt="STAS" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>Slim TAS</td><td>0.86</td><td>6</td></tr>')
@@ -48,7 +48,7 @@ $(document).ready(function(){
 		$('.clicks').html(counter++);
 		
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/sGSR.png" alt="GSR" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/oAdGAY9.png" alt="GSR" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>GSR</td><td>1.13</td><td>9</td></tr>')
@@ -69,7 +69,7 @@ $(document).ready(function(){
 		$('.clicks').text(counter++);
         
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/sVRS.png" alt="SVRS" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/mZbF8cm.png" alt="SVRS" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>Slim VRS</td><td>0.80</td><td>11</td></tr>')
@@ -154,7 +154,7 @@ $(document).ready(function(){
 		$('.clicks').text(counter++);
         
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/ITC.png" alt="5m ITC" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/iwB7FpN.png" alt="5m ITC" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>5m ITC</td><td>4.11</td><td>x</td></tr>')
@@ -175,7 +175,7 @@ $(document).ready(function(){
 		$('.clicks').text(counter++);
         
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/ITC.png" alt="10m ITC" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/iwB7FpN.png" alt="10m ITC" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>10m ITC</td><td>9.11</td><td>x</td></tr>')
@@ -196,7 +196,7 @@ $(document).ready(function(){
 		$('.clicks').text(counter++);
         
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/ITC.png" alt="15m ITC" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/iwB7FpN.png" alt="15m ITC" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>15m ITC</td><td>14.11</td><td>x</td></tr>')
@@ -217,7 +217,7 @@ $(document).ready(function(){
 		$('.clicks').text(counter++);
         
 		//adds he tool PNG to the string
-		$("#toolstring").append('<img src="images/ITC.png" alt="30m ITC" style="width:40px">');
+		$("#toolstring").append('<img src="http://i.imgur.com/iwB7FpN.png" alt="30m ITC" style="width:40px">');
 		
 		//adds the data to the table
 		$("#t01").append('<tr class="data"><td></td><td>30m ITC</td><td>29.11</td><td>x</td></tr>')
